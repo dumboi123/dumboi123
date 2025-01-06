@@ -1,4 +1,3 @@
-## Hi there 👋
 # ABOUT ME
 🎮 Game Developer | Mobile Developer | AI Enthusiast 🤖
 
