@@ -66,9 +66,3 @@ I believe that technology and creativity together can create magic, and I’m al
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/dumboi123/dumboi123/output/snake.svg" alt="Snake animation" />
-
-###
